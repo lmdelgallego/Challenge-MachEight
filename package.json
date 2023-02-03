@@ -1,0 +1,20 @@
+{
+  "name": "challenge-macheight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmdelgallego/Challenge-MachEight.git"
+  },
+  "author": "Luis Miguel Del Gallego Horta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmdelgallego/Challenge-MachEight/issues"
+  },
+  "homepage": "https://github.com/lmdelgallego/Challenge-MachEight#readme"
+}
